@@ -4,14 +4,14 @@ AI Load Balancer is an intelligent traffic distribution system that uses machine
 
 **Features:**
 
-Real-time server monitoring with a classic dashboard (HTML/CSS/JS + Flask)
+Real-time server monitoring with a classic dashboard.
 
-Machine Learning model predicts the best server based on live data
+Machine Learning model predicts the best server based on live data.
 
-Live graph visualization of CPU, memory, latency, and uptime
+Live graph visualization of CPU, memory, latency, and uptime.
 
-Server history logs and graph export for analysis (graph_output.png)
+Server history logs and graph export for analysis (graph_output.png).
 
-Supports line charts, annotated predictions, and server dropdown selection
+Supports line charts, annotated predictions, and server dropdown selection.
 
-REST API built with Flask for data updates and model predictions
+REST API built with Flask for data updates and model predictions.
