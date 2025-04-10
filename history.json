@@ -1,0 +1,1742 @@
+[
+  {
+    "timestamp": "2025-04-06T20:19:16.854804",
+    "input": {
+      "cpu": 70,
+      "memory": 60,
+      "latency": 180,
+      "uptime": 15
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T20:30:04.552295",
+    "input": {
+      "cpu": 75,
+      "memory": 79,
+      "latency": 283,
+      "uptime": 88
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T20:30:09.563565",
+    "input": {
+      "cpu": 51,
+      "memory": 53,
+      "latency": 83,
+      "uptime": 7
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T20:30:14.574979",
+    "input": {
+      "cpu": 14,
+      "memory": 55,
+      "latency": 118,
+      "uptime": 11
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T20:30:19.590772",
+    "input": {
+      "cpu": 68,
+      "memory": 30,
+      "latency": 216,
+      "uptime": 11
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T20:30:24.604481",
+    "input": {
+      "cpu": 80,
+      "memory": 70,
+      "latency": 280,
+      "uptime": 97
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T20:30:29.641192",
+    "input": {
+      "cpu": 93,
+      "memory": 80,
+      "latency": 228,
+      "uptime": 5
+    },
+    "prediction": "Server_C"
+  },
+  {
+    "timestamp": "2025-04-06T20:30:34.677203",
+    "input": {
+      "cpu": 90,
+      "memory": 24,
+      "latency": 208,
+      "uptime": 78
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-06T20:30:39.692072",
+    "input": {
+      "cpu": 68,
+      "memory": 87,
+      "latency": 201,
+      "uptime": 25
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T20:30:44.702405",
+    "input": {
+      "cpu": 29,
+      "memory": 37,
+      "latency": 287,
+      "uptime": 73
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-06T20:30:49.716031",
+    "input": {
+      "cpu": 16,
+      "memory": 64,
+      "latency": 154,
+      "uptime": 97
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T20:30:54.730553",
+    "input": {
+      "cpu": 67,
+      "memory": 30,
+      "latency": 245,
+      "uptime": 37
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-06T20:30:59.765961",
+    "input": {
+      "cpu": 95,
+      "memory": 76,
+      "latency": 199,
+      "uptime": 34
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T21:25:10.729383",
+    "input": {
+      "cpu": 73,
+      "memory": 31,
+      "latency": 255,
+      "uptime": 75
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-06T21:25:15.744329",
+    "input": {
+      "cpu": 34,
+      "memory": 66,
+      "latency": 297,
+      "uptime": 50
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-06T21:25:20.759436",
+    "input": {
+      "cpu": 16,
+      "memory": 85,
+      "latency": 226,
+      "uptime": 90
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-06T21:25:25.775395",
+    "input": {
+      "cpu": 24,
+      "memory": 62,
+      "latency": 245,
+      "uptime": 94
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-06T21:25:30.786547",
+    "input": {
+      "cpu": 59,
+      "memory": 53,
+      "latency": 248,
+      "uptime": 59
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T21:25:35.800116",
+    "input": {
+      "cpu": 61,
+      "memory": 32,
+      "latency": 277,
+      "uptime": 4
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T21:25:40.813081",
+    "input": {
+      "cpu": 53,
+      "memory": 31,
+      "latency": 94,
+      "uptime": 43
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-06T21:25:45.826730",
+    "input": {
+      "cpu": 90,
+      "memory": 68,
+      "latency": 270,
+      "uptime": 62
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T21:25:50.841591",
+    "input": {
+      "cpu": 61,
+      "memory": 20,
+      "latency": 233,
+      "uptime": 50
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-06T21:25:55.852923",
+    "input": {
+      "cpu": 91,
+      "memory": 62,
+      "latency": 287,
+      "uptime": 47
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T21:26:00.865281",
+    "input": {
+      "cpu": 52,
+      "memory": 82,
+      "latency": 195,
+      "uptime": 41
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T21:26:05.876880",
+    "input": {
+      "cpu": 76,
+      "memory": 60,
+      "latency": 138,
+      "uptime": 92
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T21:26:10.891995",
+    "input": {
+      "cpu": 30,
+      "memory": 61,
+      "latency": 143,
+      "uptime": 49
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T23:20:50.282080",
+    "input": {
+      "cpu": 41,
+      "memory": 74,
+      "latency": 233,
+      "uptime": 78
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-06T23:20:55.298175",
+    "input": {
+      "cpu": 38,
+      "memory": 74,
+      "latency": 280,
+      "uptime": 72
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-06T23:21:00.336098",
+    "input": {
+      "cpu": 60,
+      "memory": 57,
+      "latency": 247,
+      "uptime": 80
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T23:21:05.374491",
+    "input": {
+      "cpu": 80,
+      "memory": 40,
+      "latency": 171,
+      "uptime": 46
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T23:21:10.386714",
+    "input": {
+      "cpu": 89,
+      "memory": 30,
+      "latency": 182,
+      "uptime": 17
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T23:21:15.400049",
+    "input": {
+      "cpu": 18,
+      "memory": 56,
+      "latency": 161,
+      "uptime": 57
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T23:21:20.412157",
+    "input": {
+      "cpu": 46,
+      "memory": 36,
+      "latency": 137,
+      "uptime": 8
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T23:21:25.426303",
+    "input": {
+      "cpu": 84,
+      "memory": 75,
+      "latency": 91,
+      "uptime": 10
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T23:21:30.438741",
+    "input": {
+      "cpu": 45,
+      "memory": 84,
+      "latency": 82,
+      "uptime": 27
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-06T23:21:35.450533",
+    "input": {
+      "cpu": 13,
+      "memory": 23,
+      "latency": 270,
+      "uptime": 33
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-06T23:21:40.461461",
+    "input": {
+      "cpu": 18,
+      "memory": 77,
+      "latency": 245,
+      "uptime": 61
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-06T23:21:45.473254",
+    "input": {
+      "cpu": 13,
+      "memory": 79,
+      "latency": 86,
+      "uptime": 94
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-06T23:21:50.488908",
+    "input": {
+      "cpu": 59,
+      "memory": 74,
+      "latency": 255,
+      "uptime": 54
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T23:21:55.525786",
+    "input": {
+      "cpu": 50,
+      "memory": 62,
+      "latency": 203,
+      "uptime": 91
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T23:22:00.560906",
+    "input": {
+      "cpu": 89,
+      "memory": 21,
+      "latency": 148,
+      "uptime": 80
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-06T23:22:05.594532",
+    "input": {
+      "cpu": 21,
+      "memory": 79,
+      "latency": 226,
+      "uptime": 12
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-06T23:22:10.606370",
+    "input": {
+      "cpu": 80,
+      "memory": 43,
+      "latency": 96,
+      "uptime": 38
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-06T23:22:15.621378",
+    "input": {
+      "cpu": 90,
+      "memory": 83,
+      "latency": 142,
+      "uptime": 73
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T11:09:37.004132",
+    "input": {
+      "cpu": 40,
+      "memory": 49,
+      "latency": 295,
+      "uptime": 91
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T11:09:42.019132",
+    "input": {
+      "cpu": 27,
+      "memory": 60,
+      "latency": 231,
+      "uptime": 68
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T11:09:47.032527",
+    "input": {
+      "cpu": 26,
+      "memory": 85,
+      "latency": 284,
+      "uptime": 81
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T11:09:52.069383",
+    "input": {
+      "cpu": 91,
+      "memory": 38,
+      "latency": 139,
+      "uptime": 48
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T11:09:57.107338",
+    "input": {
+      "cpu": 36,
+      "memory": 69,
+      "latency": 223,
+      "uptime": 21
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T11:10:02.144688",
+    "input": {
+      "cpu": 27,
+      "memory": 60,
+      "latency": 199,
+      "uptime": 78
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T11:10:07.160502",
+    "input": {
+      "cpu": 18,
+      "memory": 53,
+      "latency": 272,
+      "uptime": 58
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T11:10:12.177007",
+    "input": {
+      "cpu": 60,
+      "memory": 82,
+      "latency": 277,
+      "uptime": 8
+    },
+    "prediction": "Server_C"
+  },
+  {
+    "timestamp": "2025-04-09T11:10:17.190528",
+    "input": {
+      "cpu": 52,
+      "memory": 68,
+      "latency": 298,
+      "uptime": 49
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T11:10:22.202697",
+    "input": {
+      "cpu": 46,
+      "memory": 22,
+      "latency": 280,
+      "uptime": 44
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T11:10:27.215069",
+    "input": {
+      "cpu": 43,
+      "memory": 54,
+      "latency": 294,
+      "uptime": 96
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T11:10:32.229292",
+    "input": {
+      "cpu": 53,
+      "memory": 56,
+      "latency": 151,
+      "uptime": 21
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T11:10:37.245084",
+    "input": {
+      "cpu": 16,
+      "memory": 82,
+      "latency": 80,
+      "uptime": 79
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T11:10:42.255235",
+    "input": {
+      "cpu": 20,
+      "memory": 62,
+      "latency": 215,
+      "uptime": 83
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T11:10:47.267665",
+    "input": {
+      "cpu": 50,
+      "memory": 70,
+      "latency": 86,
+      "uptime": 57
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T11:10:52.282005",
+    "input": {
+      "cpu": 71,
+      "memory": 28,
+      "latency": 127,
+      "uptime": 21
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T11:10:57.296348",
+    "input": {
+      "cpu": 29,
+      "memory": 23,
+      "latency": 224,
+      "uptime": 59
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T11:11:02.312361",
+    "input": {
+      "cpu": 35,
+      "memory": 69,
+      "latency": 153,
+      "uptime": 9
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T11:11:07.328770",
+    "input": {
+      "cpu": 27,
+      "memory": 80,
+      "latency": 261,
+      "uptime": 73
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T11:11:12.340511",
+    "input": {
+      "cpu": 57,
+      "memory": 86,
+      "latency": 139,
+      "uptime": 59
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T11:11:17.352471",
+    "input": {
+      "cpu": 39,
+      "memory": 52,
+      "latency": 112,
+      "uptime": 82
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T11:11:22.367905",
+    "input": {
+      "cpu": 91,
+      "memory": 78,
+      "latency": 265,
+      "uptime": 33
+    },
+    "prediction": "Server_C"
+  },
+  {
+    "timestamp": "2025-04-09T11:11:27.383194",
+    "input": {
+      "cpu": 85,
+      "memory": 51,
+      "latency": 85,
+      "uptime": 63
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T11:11:32.400529",
+    "input": {
+      "cpu": 32,
+      "memory": 29,
+      "latency": 100,
+      "uptime": 9
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T11:11:37.415450",
+    "input": {
+      "cpu": 39,
+      "memory": 30,
+      "latency": 154,
+      "uptime": 55
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T11:11:42.428983",
+    "input": {
+      "cpu": 33,
+      "memory": 89,
+      "latency": 191,
+      "uptime": 20
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T11:11:47.465886",
+    "input": {
+      "cpu": 66,
+      "memory": 66,
+      "latency": 118,
+      "uptime": 53
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T11:11:52.503670",
+    "input": {
+      "cpu": 11,
+      "memory": 64,
+      "latency": 118,
+      "uptime": 14
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T11:11:57.516940",
+    "input": {
+      "cpu": 62,
+      "memory": 28,
+      "latency": 125,
+      "uptime": 72
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T11:12:02.531114",
+    "input": {
+      "cpu": 76,
+      "memory": 40,
+      "latency": 261,
+      "uptime": 25
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T11:12:07.565941",
+    "input": {
+      "cpu": 20,
+      "memory": 87,
+      "latency": 230,
+      "uptime": 83
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T11:12:12.582572",
+    "input": {
+      "cpu": 49,
+      "memory": 62,
+      "latency": 88,
+      "uptime": 7
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T11:12:17.617319",
+    "input": {
+      "cpu": 61,
+      "memory": 87,
+      "latency": 127,
+      "uptime": 79
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T11:12:22.630482",
+    "input": {
+      "cpu": 21,
+      "memory": 65,
+      "latency": 265,
+      "uptime": 27
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:00:09.275385",
+    "input": {
+      "cpu": 39,
+      "memory": 22,
+      "latency": 208,
+      "uptime": 48
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:00:14.290106",
+    "input": {
+      "cpu": 91,
+      "memory": 34,
+      "latency": 221,
+      "uptime": 53
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:00:19.325674",
+    "input": {
+      "cpu": 11,
+      "memory": 65,
+      "latency": 82,
+      "uptime": 94
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:00:24.361485",
+    "input": {
+      "cpu": 76,
+      "memory": 80,
+      "latency": 270,
+      "uptime": 8
+    },
+    "prediction": "Server_C"
+  },
+  {
+    "timestamp": "2025-04-09T20:00:29.398776",
+    "input": {
+      "cpu": 46,
+      "memory": 77,
+      "latency": 139,
+      "uptime": 41
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:00:34.415248",
+    "input": {
+      "cpu": 97,
+      "memory": 68,
+      "latency": 168,
+      "uptime": 54
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:00:39.428766",
+    "input": {
+      "cpu": 45,
+      "memory": 48,
+      "latency": 210,
+      "uptime": 87
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:02:05.231225",
+    "input": {
+      "cpu": 82,
+      "memory": 89,
+      "latency": 105,
+      "uptime": 49
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:02:10.245452",
+    "input": {
+      "cpu": 26,
+      "memory": 90,
+      "latency": 285,
+      "uptime": 82
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:02:15.281592",
+    "input": {
+      "cpu": 58,
+      "memory": 44,
+      "latency": 173,
+      "uptime": 61
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:02:20.319724",
+    "input": {
+      "cpu": 51,
+      "memory": 28,
+      "latency": 258,
+      "uptime": 25
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:02:25.356446",
+    "input": {
+      "cpu": 55,
+      "memory": 65,
+      "latency": 233,
+      "uptime": 84
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:02:30.391385",
+    "input": {
+      "cpu": 56,
+      "memory": 56,
+      "latency": 203,
+      "uptime": 30
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:08:27.257187",
+    "input": {
+      "cpu": 59,
+      "memory": 78,
+      "latency": 198,
+      "uptime": 28
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:08:32.273922",
+    "input": {
+      "cpu": 39,
+      "memory": 44,
+      "latency": 124,
+      "uptime": 68
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:08:37.312995",
+    "input": {
+      "cpu": 78,
+      "memory": 24,
+      "latency": 224,
+      "uptime": 32
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:08:42.351945",
+    "input": {
+      "cpu": 75,
+      "memory": 32,
+      "latency": 200,
+      "uptime": 61
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:08:47.390825",
+    "input": {
+      "cpu": 94,
+      "memory": 63,
+      "latency": 157,
+      "uptime": 76
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:08:52.403006",
+    "input": {
+      "cpu": 59,
+      "memory": 71,
+      "latency": 80,
+      "uptime": 44
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:08:57.437977",
+    "input": {
+      "cpu": 57,
+      "memory": 49,
+      "latency": 176,
+      "uptime": 68
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:09:02.471666",
+    "input": {
+      "cpu": 62,
+      "memory": 54,
+      "latency": 221,
+      "uptime": 13
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:09:07.505851",
+    "input": {
+      "cpu": 30,
+      "memory": 68,
+      "latency": 273,
+      "uptime": 8
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:09:12.543584",
+    "input": {
+      "cpu": 74,
+      "memory": 58,
+      "latency": 162,
+      "uptime": 29
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:09:17.580610",
+    "input": {
+      "cpu": 79,
+      "memory": 73,
+      "latency": 182,
+      "uptime": 85
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:09:22.619516",
+    "input": {
+      "cpu": 78,
+      "memory": 41,
+      "latency": 187,
+      "uptime": 41
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:09:27.632329",
+    "input": {
+      "cpu": 90,
+      "memory": 28,
+      "latency": 281,
+      "uptime": 58
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:09:32.649964",
+    "input": {
+      "cpu": 30,
+      "memory": 88,
+      "latency": 239,
+      "uptime": 48
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:09:37.666826",
+    "input": {
+      "cpu": 49,
+      "memory": 87,
+      "latency": 86,
+      "uptime": 92
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:09:42.705637",
+    "input": {
+      "cpu": 87,
+      "memory": 40,
+      "latency": 260,
+      "uptime": 29
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:09:47.721770",
+    "input": {
+      "cpu": 82,
+      "memory": 88,
+      "latency": 289,
+      "uptime": 38
+    },
+    "prediction": "Server_C"
+  },
+  {
+    "timestamp": "2025-04-09T20:09:52.738873",
+    "input": {
+      "cpu": 93,
+      "memory": 23,
+      "latency": 149,
+      "uptime": 77
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:09:57.756198",
+    "input": {
+      "cpu": 29,
+      "memory": 50,
+      "latency": 86,
+      "uptime": 74
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:10:02.770879",
+    "input": {
+      "cpu": 61,
+      "memory": 85,
+      "latency": 230,
+      "uptime": 77
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:10:07.785490",
+    "input": {
+      "cpu": 38,
+      "memory": 80,
+      "latency": 87,
+      "uptime": 46
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:10:12.801366",
+    "input": {
+      "cpu": 68,
+      "memory": 69,
+      "latency": 198,
+      "uptime": 73
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:10:17.838011",
+    "input": {
+      "cpu": 62,
+      "memory": 84,
+      "latency": 88,
+      "uptime": 81
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:10:22.853877",
+    "input": {
+      "cpu": 74,
+      "memory": 42,
+      "latency": 268,
+      "uptime": 68
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:10:27.870113",
+    "input": {
+      "cpu": 20,
+      "memory": 35,
+      "latency": 106,
+      "uptime": 43
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:10:32.885916",
+    "input": {
+      "cpu": 10,
+      "memory": 84,
+      "latency": 192,
+      "uptime": 96
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:10:37.899565",
+    "input": {
+      "cpu": 16,
+      "memory": 38,
+      "latency": 154,
+      "uptime": 79
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:10:42.912399",
+    "input": {
+      "cpu": 65,
+      "memory": 52,
+      "latency": 129,
+      "uptime": 19
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:10:47.927969",
+    "input": {
+      "cpu": 17,
+      "memory": 27,
+      "latency": 197,
+      "uptime": 70
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:10:52.946571",
+    "input": {
+      "cpu": 37,
+      "memory": 83,
+      "latency": 117,
+      "uptime": 82
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:10:57.964501",
+    "input": {
+      "cpu": 53,
+      "memory": 67,
+      "latency": 137,
+      "uptime": 11
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:11:03.001760",
+    "input": {
+      "cpu": 89,
+      "memory": 80,
+      "latency": 270,
+      "uptime": 61
+    },
+    "prediction": "Server_C"
+  },
+  {
+    "timestamp": "2025-04-09T20:11:08.018766",
+    "input": {
+      "cpu": 31,
+      "memory": 80,
+      "latency": 96,
+      "uptime": 46
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:11:13.054791",
+    "input": {
+      "cpu": 37,
+      "memory": 42,
+      "latency": 197,
+      "uptime": 16
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:11:18.071460",
+    "input": {
+      "cpu": 80,
+      "memory": 78,
+      "latency": 167,
+      "uptime": 76
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:11:23.111128",
+    "input": {
+      "cpu": 49,
+      "memory": 89,
+      "latency": 208,
+      "uptime": 21
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:11:28.150450",
+    "input": {
+      "cpu": 35,
+      "memory": 58,
+      "latency": 231,
+      "uptime": 77
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:11:33.190070",
+    "input": {
+      "cpu": 35,
+      "memory": 35,
+      "latency": 181,
+      "uptime": 43
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:11:38.206387",
+    "input": {
+      "cpu": 84,
+      "memory": 80,
+      "latency": 236,
+      "uptime": 48
+    },
+    "prediction": "Server_C"
+  },
+  {
+    "timestamp": "2025-04-09T20:11:43.222918",
+    "input": {
+      "cpu": 34,
+      "memory": 84,
+      "latency": 189,
+      "uptime": 35
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:11:48.237828",
+    "input": {
+      "cpu": 62,
+      "memory": 80,
+      "latency": 162,
+      "uptime": 83
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:11:53.255883",
+    "input": {
+      "cpu": 11,
+      "memory": 45,
+      "latency": 177,
+      "uptime": 67
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:11:58.268255",
+    "input": {
+      "cpu": 67,
+      "memory": 21,
+      "latency": 265,
+      "uptime": 78
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:12:03.282090",
+    "input": {
+      "cpu": 16,
+      "memory": 53,
+      "latency": 285,
+      "uptime": 49
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:12:08.316953",
+    "input": {
+      "cpu": 92,
+      "memory": 31,
+      "latency": 253,
+      "uptime": 84
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:12:13.332514",
+    "input": {
+      "cpu": 61,
+      "memory": 48,
+      "latency": 241,
+      "uptime": 10
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:12:18.349761",
+    "input": {
+      "cpu": 55,
+      "memory": 67,
+      "latency": 146,
+      "uptime": 10
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:12:23.365554",
+    "input": {
+      "cpu": 46,
+      "memory": 85,
+      "latency": 154,
+      "uptime": 36
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:12:28.382728",
+    "input": {
+      "cpu": 24,
+      "memory": 63,
+      "latency": 200,
+      "uptime": 50
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:12:33.396494",
+    "input": {
+      "cpu": 98,
+      "memory": 74,
+      "latency": 167,
+      "uptime": 54
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:12:38.410155",
+    "input": {
+      "cpu": 34,
+      "memory": 26,
+      "latency": 114,
+      "uptime": 85
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:12:43.425603",
+    "input": {
+      "cpu": 83,
+      "memory": 73,
+      "latency": 119,
+      "uptime": 95
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:12:48.441810",
+    "input": {
+      "cpu": 99,
+      "memory": 22,
+      "latency": 140,
+      "uptime": 2
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:12:53.453305",
+    "input": {
+      "cpu": 74,
+      "memory": 47,
+      "latency": 152,
+      "uptime": 68
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:12:58.468689",
+    "input": {
+      "cpu": 83,
+      "memory": 29,
+      "latency": 237,
+      "uptime": 27
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:13:03.483355",
+    "input": {
+      "cpu": 93,
+      "memory": 50,
+      "latency": 241,
+      "uptime": 46
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:13:08.500011",
+    "input": {
+      "cpu": 35,
+      "memory": 26,
+      "latency": 81,
+      "uptime": 52
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:13:13.513631",
+    "input": {
+      "cpu": 88,
+      "memory": 32,
+      "latency": 144,
+      "uptime": 88
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:13:18.525925",
+    "input": {
+      "cpu": 49,
+      "memory": 72,
+      "latency": 109,
+      "uptime": 66
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:13:23.543521",
+    "input": {
+      "cpu": 43,
+      "memory": 31,
+      "latency": 227,
+      "uptime": 39
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:13:28.561635",
+    "input": {
+      "cpu": 87,
+      "memory": 58,
+      "latency": 88,
+      "uptime": 27
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:13:33.578863",
+    "input": {
+      "cpu": 25,
+      "memory": 44,
+      "latency": 229,
+      "uptime": 56
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:13:38.596278",
+    "input": {
+      "cpu": 22,
+      "memory": 36,
+      "latency": 224,
+      "uptime": 57
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:13:43.614845",
+    "input": {
+      "cpu": 43,
+      "memory": 81,
+      "latency": 215,
+      "uptime": 23
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:13:48.631270",
+    "input": {
+      "cpu": 29,
+      "memory": 74,
+      "latency": 83,
+      "uptime": 57
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:13:53.647011",
+    "input": {
+      "cpu": 74,
+      "memory": 31,
+      "latency": 289,
+      "uptime": 89
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:13:58.663717",
+    "input": {
+      "cpu": 70,
+      "memory": 79,
+      "latency": 289,
+      "uptime": 77
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:14:03.678720",
+    "input": {
+      "cpu": 33,
+      "memory": 84,
+      "latency": 114,
+      "uptime": 69
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:14:08.695600",
+    "input": {
+      "cpu": 61,
+      "memory": 33,
+      "latency": 131,
+      "uptime": 100
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:14:13.712861",
+    "input": {
+      "cpu": 54,
+      "memory": 68,
+      "latency": 279,
+      "uptime": 49
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:14:18.730923",
+    "input": {
+      "cpu": 97,
+      "memory": 20,
+      "latency": 221,
+      "uptime": 11
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:14:23.770984",
+    "input": {
+      "cpu": 59,
+      "memory": 90,
+      "latency": 84,
+      "uptime": 69
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:14:28.812197",
+    "input": {
+      "cpu": 91,
+      "memory": 55,
+      "latency": 251,
+      "uptime": 81
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:14:33.830650",
+    "input": {
+      "cpu": 50,
+      "memory": 25,
+      "latency": 195,
+      "uptime": 40
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:14:38.844269",
+    "input": {
+      "cpu": 82,
+      "memory": 26,
+      "latency": 279,
+      "uptime": 37
+    },
+    "prediction": "Server_A"
+  },
+  {
+    "timestamp": "2025-04-09T20:14:43.879720",
+    "input": {
+      "cpu": 61,
+      "memory": 33,
+      "latency": 209,
+      "uptime": 62
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:14:48.896896",
+    "input": {
+      "cpu": 58,
+      "memory": 57,
+      "latency": 83,
+      "uptime": 4
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:14:53.911550",
+    "input": {
+      "cpu": 72,
+      "memory": 66,
+      "latency": 86,
+      "uptime": 27
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:14:58.926693",
+    "input": {
+      "cpu": 98,
+      "memory": 62,
+      "latency": 234,
+      "uptime": 31
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:22:14.202106",
+    "input": {
+      "cpu": 41,
+      "memory": 79,
+      "latency": 250,
+      "uptime": 15
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:22:19.220023",
+    "input": {
+      "cpu": 90,
+      "memory": 43,
+      "latency": 243,
+      "uptime": 14
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:22:24.255056",
+    "input": {
+      "cpu": 69,
+      "memory": 37,
+      "latency": 172,
+      "uptime": 92
+    },
+    "prediction": "Server_B"
+  },
+  {
+    "timestamp": "2025-04-09T20:22:29.268193",
+    "input": {
+      "cpu": 52,
+      "memory": 45,
+      "latency": 136,
+      "uptime": 77
+    },
+    "prediction": "Server_B"
+  }
+]
